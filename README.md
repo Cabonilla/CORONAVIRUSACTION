@@ -1,4 +1,4 @@
-# CORONAVIRUSACTION
+# covidhelpdesk
 
 This is a basic web page with basic information concerning the COVID-19 virus. It was written to be hosted on a server-less platform named [Itty Bitty Site](https://itty.bitty.site/edit). The service converts basic code into a format that loads via the address, which prevents such issues as server crashes.
 
